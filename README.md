@@ -1,6 +1,7 @@
-# Deployment Scripts
+# Devutils Python
+Very useful in automation where we need to create mysql database with same name as user and assign him a random password. Specially in SAAS based products where instances are created for different users.
 
-## Python Module Dependencies
+## Module Dependencies
 - Python 2.7.x
 - Python pip (latest)
 - mysqlclient (Install using pip)
