@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS customers (
                      queue_name TEXT NOT NULL
 ```
 
-So, below information is stored in this table
+So below information is stored in this table
 
 ```
  - Name
